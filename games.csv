@@ -1,0 +1,11 @@
+game_id,date,home_team,away_team,home_score,away_score,winner
+0,2026-07-29 16:28:20.379126,Lakers,Celtics,91,103,Celtics
+1,2026-07-28 16:28:20.379136,Warriors,Suns,95,98,Suns
+2,2026-07-27 16:28:20.379138,Heat,Bulls,93,113,Bulls
+3,2026-07-26 16:28:20.379139,Bulls,Heat,105,105,Heat
+4,2026-07-25 16:28:20.379140,Suns,Lakers,92,102,Lakers
+5,2026-07-24 16:28:20.379141,Celtics,Warriors,109,106,Celtics
+6,2026-07-23 16:28:20.379142,Lakers,Suns,100,109,Suns
+7,2026-07-22 16:28:20.379143,Warriors,Celtics,100,103,Celtics
+8,2026-07-21 16:28:20.379144,Heat,Lakers,108,113,Lakers
+9,2026-07-20 16:28:20.379145,Bulls,Warriors,114,100,Bulls
